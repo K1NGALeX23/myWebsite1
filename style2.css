@@ -1,0 +1,26 @@
+body{
+	background-image:url("media/wallpaper2.jpg");
+	background-size:cover;
+	padding:5px;
+	margin:5px;
+}
+
+
+
+header,footer{
+	background-color:white;
+	color:black;
+	margin:10px;
+	font-family:sans-serif;
+	text-align:center;
+	border-radius:10%;
+	opacity:89%;
+	
+}
+header h1{
+	font-size:80px;
+}
+header h2{
+	font-size:50px;
+}
+	
